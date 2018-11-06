@@ -49,7 +49,7 @@ int main () {
 
 **Alue algoritma**
 1. Deklarasikan variable `int N, a, b, d, e, hb, i, total, stotal dan float dis = 0.0`
-2. Tampilkan pesan pembuka (i)Selamat datang(i)
+2. Tampilkan pesan pembuka Selamat datang
 3. Masukkan input dari user `cin >> N`
 4. Masukkan input dari user `cin >> a >> b`
 5. jumlahkan `hb = a * b;stotal = stotal+hb;e = e+a`
@@ -59,7 +59,7 @@ int main () {
 9. Bila `stotal >= 1000000` hitung potongan harga Nx10% `dis=(stotal/100)*10` lalu kurangi harga stotal dengan potongan harga `total=stotal - dis` kemudian simpan persentase diskon `d = 10`
 10. Bila `stotal > 500000` hitung potongan harga Nx5% `dis = (stotal/100)*5` lalu kurangi harga stotal dengan potongan harga `total=stotal - dis` kemudian simpan persentase diskon `d = 5`
 11. Cetak `cout << N << e << stotal << d << total`
-12. Tampilkan pesan penutup (i)tarima kasih(i)
+12. Tampilkan pesan penutup terima kasih
 
 **Flowchart program**
 https://github.com/ayuanjani1234/praktikum4/blob/master/latihan2/flowchart2.jpg
