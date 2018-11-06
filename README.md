@@ -47,7 +47,7 @@ int main () {
 
 ## Latihan 2: Program Struk Belanja Fresh to Fresh
 
-**Alue algoritma**
+**Alur algoritma**
 1. Deklarasikan variable `int N, a, b, d, e, hb, i, total, stotal dan float dis = 0.0`
 2. Tampilkan pesan pembuka Selamat datang
 3. Masukkan input dari user `cin >> N`
