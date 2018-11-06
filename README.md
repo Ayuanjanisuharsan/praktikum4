@@ -1,7 +1,7 @@
 # praktikum4
 
 
-##latihan1 : Mencari angka terbesar dari sejumlh bilangan yang diinputkan
+## latihan1 : Mencari angka terbesar dari sejumlah bilangan yang di inputkan
 
 
 **Alur algoritma**
